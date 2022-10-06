@@ -1,1 +1,1 @@
-0. directories permissions
+0. directory permissions
