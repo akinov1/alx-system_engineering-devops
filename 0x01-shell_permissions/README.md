@@ -1,1 +1,1 @@
-0. mirror permissions
+0. directories permissions
