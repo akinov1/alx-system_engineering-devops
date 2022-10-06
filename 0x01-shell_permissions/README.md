@@ -1,1 +1,1 @@
-0. multiple permissions
+0. everybody
