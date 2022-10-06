@@ -1,1 +1,1 @@
-0. John Doe
+0. mirror permissions
