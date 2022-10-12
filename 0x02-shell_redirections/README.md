@@ -1,1 +1,1 @@
-Hello word
+Shell I/O redirections
